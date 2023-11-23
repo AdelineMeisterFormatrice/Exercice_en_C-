@@ -1,0 +1,74 @@
+﻿@model WebApplication1.Models.Operation
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width" />
+    <title>FormulaireOperation</title>
+</head>
+<body>
+    <nav class="container-fluid navbar navbar-expand-lg navbar-dark bg-dark justify-content-end">
+        <ul class="nav justify-content-end">
+            <li class="nav-item">
+                <div class="form-inline">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link">Sign In</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link">|</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link">Sign Out</a>
+            </li>
+        </ul>
+    </nav>
+    <header class="container">
+        <img src="~/Content/calcul.png" alt="logo" />
+            
+    </header>
+        <div>
+            <section class="container">
+                <form method="post" action="EnvoieFormulaireOperation">
+                    <div class="form-group mb-5">
+                        <div class="p-3 mb-2 bg-dark text-white">
+                            <center><h3><label for="ChoixOperandeGauche">Choix de l'operande gauche</label></h3></center>
+                            <center>  <input type="text" class="form-control" name="OperandeGauche" placeholder="Saisissez l'operande gauche" /></center>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="p-3 mb-2 bg-dark text-white">
+                            <center> <h3><label for="ChoixDeLoperateur">Choix de l'operateur</label></h3></center>
+                            <select style="text-align:center;" class="form-control" name="Operateur">
+                                <option value="+">Addition </option>
+                                <option value="-">Soustraction</option>
+                                <option value="*">Multiplication</option>
+                                <option value="/">Division</option>
+                                <option value="^">Puissance</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="p-3 mb-2 bg-dark text-white">
+                            <center><h3> <label for="ChoixOperandeDroite"> Choix de l'operande droite</label></h3></center>
+                            <center>  <input type="text" class="form-control" name="OperandeDroite" placeholder="Saisissez l'operande droite" /></center>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn bg-danger mb-2">Calculer...</button>
+                </form>
+            </section>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿@model List<MonApplication.Models.Operation>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Toutes les opérations</title>
+</head>
+<body>
+    <div> 
+        <table>
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Gauche</th>
+                    <th>Opérateur</th>
+                    <th>Droite</th>
+                    <th>Résultat</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var operation in Model)
+                {
+                    <tr>
+                        <td><a href="Historique?clePrimaireOperation=@operation.ID">Afficher</a> </td>
+                        <td>@operation.OperandeGauche</td>
+                        <td>@operation.Operateur</td>
+                        <td>@operation.OperandeDroite</td>
+                        <td>@operation.GetResult()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

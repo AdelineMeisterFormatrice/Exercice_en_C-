@@ -1,0 +1,6 @@
+c:\users\adai07\documents\visual studio 2015\Projects\Cours1\Cours1\bin\Debug\Cours1.exe.config
+c:\users\adai07\documents\visual studio 2015\Projects\Cours1\Cours1\bin\Debug\Cours1.exe
+c:\users\adai07\documents\visual studio 2015\Projects\Cours1\Cours1\bin\Debug\Cours1.pdb
+c:\users\adai07\documents\visual studio 2015\Projects\Cours1\Cours1\obj\Debug\Cours1.csprojResolveAssemblyReference.cache
+c:\users\adai07\documents\visual studio 2015\Projects\Cours1\Cours1\obj\Debug\Cours1.exe
+c:\users\adai07\documents\visual studio 2015\Projects\Cours1\Cours1\obj\Debug\Cours1.pdb

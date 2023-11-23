@@ -1,0 +1,12 @@
+c:\users\adai07\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Calulatrice1.csprojResolveAssemblyReference.cache
+c:\users\adai07\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\adai07\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\adai07\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\adai07\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\adai07\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+Z:\damien\Projects\Calculatricev2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+Z:\damien\Projects\Calculatricev2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+Z:\damien\Projects\Calculatricev2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+Z:\damien\Projects\Calculatricev2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Z:\damien\Projects\Calculatricev2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+Z:\damien\Projects\Calculatricev2\ConsoleApplication1\obj\Debug\Calulatrice1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TP1Bonjour,BonWeekEnd\TP1Bonjour,BonWeekEnd\bin\Debug\TP1Bonjour,BonWeekEnd.exe.config
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TP1Bonjour,BonWeekEnd\TP1Bonjour,BonWeekEnd\bin\Debug\TP1Bonjour,BonWeekEnd.exe
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TP1Bonjour,BonWeekEnd\TP1Bonjour,BonWeekEnd\bin\Debug\TP1Bonjour,BonWeekEnd.pdb
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TP1Bonjour,BonWeekEnd\TP1Bonjour,BonWeekEnd\obj\Debug\TP1Bonjour,BonWeekEnd.csprojResolveAssemblyReference.cache
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TP1Bonjour,BonWeekEnd\TP1Bonjour,BonWeekEnd\obj\Debug\TP1Bonjour,BonWeekEnd.csproj.CoreCompileInputs.cache
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TP1Bonjour,BonWeekEnd\TP1Bonjour,BonWeekEnd\obj\Debug\TP1Bonjour,BonWeekEnd.exe
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TP1Bonjour,BonWeekEnd\TP1Bonjour,BonWeekEnd\obj\Debug\TP1Bonjour,BonWeekEnd.pdb

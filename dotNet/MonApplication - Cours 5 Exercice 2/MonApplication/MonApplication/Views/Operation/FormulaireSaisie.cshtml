@@ -1,0 +1,28 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>FormulaireSaisieAddition</title>
+</head>
+<body>
+    <div>
+        <form method="post" action="EnvoiFormulaireOperation">
+            Gauche : <input type="text" name="operandeGauche" /><br />
+            Operateur : <select name="operateurInput">
+                <option value="+">Addition</option>
+                <option value="*">Multiplication</option>
+                <option value="-">Soustraction</option>
+                <option value="/">Division</option>
+                <option value="^">Puissance</option>
+            </select><br />
+            Droite : <input type="text" name="operandeDroite" /><br />
+            <input type="submit" value="Calculer" />
+        </form>
+    </div>
+</body>
+</html>

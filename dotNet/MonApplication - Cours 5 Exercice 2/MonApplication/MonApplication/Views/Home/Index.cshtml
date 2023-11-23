@@ -1,0 +1,26 @@
+﻿@model MonApplication.Models.PageIndexModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Toto</title>
+</head>
+<body>
+    <div> 
+        <h1>Bonjour</h1>
+        <h3>Déjà @Model.CompteurUtilisateurs utilisateurs</h3>
+
+        <form method="get" action="/Toto/Titi">
+            Login : <input type="text" name="loginInput" placeholder="Saisissez votre login" />
+            Password : <input type="password" name="passwordInput" />
+            <input type="submit" value="Se connecter..."/>
+        </form>
+    </div>
+</body>
+</html>

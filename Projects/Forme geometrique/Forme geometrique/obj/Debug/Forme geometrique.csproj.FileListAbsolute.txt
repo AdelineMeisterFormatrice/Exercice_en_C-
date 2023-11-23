@@ -1,0 +1,12 @@
+c:\users\adai07\documents\visual studio 2015\Projects\Forme geometrique\Forme geometrique\bin\Debug\Forme geometrique.exe.config
+c:\users\adai07\documents\visual studio 2015\Projects\Forme geometrique\Forme geometrique\bin\Debug\Forme geometrique.exe
+c:\users\adai07\documents\visual studio 2015\Projects\Forme geometrique\Forme geometrique\bin\Debug\Forme geometrique.pdb
+c:\users\adai07\documents\visual studio 2015\Projects\Forme geometrique\Forme geometrique\obj\Debug\Forme geometrique.csprojResolveAssemblyReference.cache
+c:\users\adai07\documents\visual studio 2015\Projects\Forme geometrique\Forme geometrique\obj\Debug\Forme geometrique.exe
+c:\users\adai07\documents\visual studio 2015\Projects\Forme geometrique\Forme geometrique\obj\Debug\Forme geometrique.pdb
+Z:\damien\Projects\Forme geometrique\Forme geometrique\bin\Debug\Forme geometrique.exe.config
+Z:\damien\Projects\Forme geometrique\Forme geometrique\obj\Debug\Forme geometrique.exe
+Z:\damien\Projects\Forme geometrique\Forme geometrique\obj\Debug\Forme geometrique.pdb
+Z:\damien\Projects\Forme geometrique\Forme geometrique\bin\Debug\Forme geometrique.exe
+Z:\damien\Projects\Forme geometrique\Forme geometrique\bin\Debug\Forme geometrique.pdb
+Z:\damien\Projects\Forme geometrique\Forme geometrique\obj\Debug\Forme geometrique.csprojResolveAssemblyReference.cache

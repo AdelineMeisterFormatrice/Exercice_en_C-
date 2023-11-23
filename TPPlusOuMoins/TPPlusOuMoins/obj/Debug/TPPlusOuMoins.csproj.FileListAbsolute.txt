@@ -1,0 +1,7 @@
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TPPlusOuMoins\TPPlusOuMoins\bin\Debug\TPPlusOuMoins.exe.config
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TPPlusOuMoins\TPPlusOuMoins\bin\Debug\TPPlusOuMoins.exe
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TPPlusOuMoins\TPPlusOuMoins\bin\Debug\TPPlusOuMoins.pdb
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TPPlusOuMoins\TPPlusOuMoins\obj\Debug\TPPlusOuMoins.csprojResolveAssemblyReference.cache
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TPPlusOuMoins\TPPlusOuMoins\obj\Debug\TPPlusOuMoins.csproj.CoreCompileInputs.cache
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TPPlusOuMoins\TPPlusOuMoins\obj\Debug\TPPlusOuMoins.exe
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\TPPlusOuMoins\TPPlusOuMoins\obj\Debug\TPPlusOuMoins.pdb

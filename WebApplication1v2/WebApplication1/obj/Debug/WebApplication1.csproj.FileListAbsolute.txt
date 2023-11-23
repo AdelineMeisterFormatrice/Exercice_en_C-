@@ -1,0 +1,186 @@
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\WebApplication1.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+Z:\damien\dotNet\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+Z:\damien\dotNet\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+Z:\damien\dotNet\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\adai07\Documents\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\wonde\OneDrive\Documents\Visual Studio 2017\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\ApplicationInsights.config
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\csc.exe
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\WebApplication1.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\WebApplication1.pdb
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\wonde\OneDrive\Documents\WebApplication1v2\WebApplication1\obj\Debug\WebApplication1.pdb
